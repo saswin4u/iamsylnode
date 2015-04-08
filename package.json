@@ -1,0 +1,28 @@
+{
+  "name": "iamsylnodemodule",
+  "version": "0.0.1",
+  "description": "All the node modules which is use in I Am Syl is in this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saswin4u/iamsylnode.git"
+  },
+  "keywords": [
+    "iamsyl",
+    "photography",
+    "iamsyl",
+    "photography",
+    "nodejs",
+    "couchdb",
+    "express"
+  ],
+  "author": "Sylvester Aswin <sylvester.aswinstanley@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saswin4u/iamsylnode/issues"
+  },
+  "homepage": "https://github.com/saswin4u/iamsylnode"
+}
